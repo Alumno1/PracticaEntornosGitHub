@@ -10,11 +10,6 @@ package paqueteNachoMovellan;
  *
  * @author nacho
  */
-public class ClassNachoMovellan {
-    static public void main(String[] arg)
-    {
-        System.out.println("Hello World");
-        System.out.println("nueva modificacion");
-    }        
+public class ClassdePrueba {
     
 }
