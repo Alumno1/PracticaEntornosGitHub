@@ -8,6 +8,7 @@ package paqueteDragosLupu;
 
 /**
  *
+
  * @author Vespertino
  */
 public class ModificadaPorAmbos {
@@ -15,4 +16,11 @@ public class ModificadaPorAmbos {
     public void MetodoDragos(){
         System.out.println("Dragos");
     }
+
+
+    public void MetodoNacho()
+    {
+        System.out.println("Nacho");
+    }
+    
 }
